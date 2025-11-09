@@ -350,6 +350,7 @@ Bayangkan ini sebagai menu spell:
 - 📈 Remove Background
 - 📈 dll
 
+
 # Update V4 Anlisis And Doctor Analisis and Install Streamlit Launcher Make Termux ☕
 
 ## vitur Update Api Key And Api Server
@@ -645,6 +646,9 @@ if __name__ == '__main__':
 11. etc.
 
 ## Vitur Analisis Face 
+=======
+## Welcome Vitur Analisis Face 
+>>>>>>> 0ad9b6b0c54f59479b51e0f175573068b40c2f8e
 
 <img src="https://github.com/DwiDevelopes/gambar/raw/main/Screenshot%202025-10-30%20200557.png" width="100%" height="100%">
 
